@@ -2,12 +2,19 @@
 <html lang="en">
 <body class="container">
   <table>
-    <% waves.forEach( function(wave) { %>
-       <tr>
-         <td><%= wave.date %></td>
-         <td><%= wave.name %></td>
-         <td><%= wave.temps %></td>
-       </tr>
+    <tr>
+      <th>Surf locations</th>
+      <th>Today - <%= today %></th>
+      <th>Tomorrow - <%= tomorrow %></th>
+      <th>After Tomorrow - <%= afterTomorrow %></th>
+    <tr>
+    <% locations.forEach( function(location) { %>
+     <tr>
+       <td><a href="<%= location[0].source %>"><%= location[0].name %></a></td>
+       <% location.forEach( function(o) { %>
+         <td><%= o.waves %> <%= o.unit %> --- <%= o.tmpe %>&#x2103;</td>
+        <% }) %>
+     </tr>
     <% }) %>
 </table>
 </body>
