@@ -34,18 +34,12 @@ var dataConversionFun = (surfing) => _.map(surfing, data => _.chain(data)
                                                         source: _.first(o).source,
                                                         unit: _.first(o).unit,
                                                         waves: parseFloat(Math.round(_.meanBy(o, 'wave-max') * 100) / 100).toFixed(2),
+                                                        good: parseFloat(Math.round(_.meanBy(o, 'wave-max') * 100) / 100).toFixed(2) > 1,
                                                         tmpe: parseFloat(Math.round(_.meanBy(o, 'tmpe') * 100) / 100).toFixed(2)
                                                       }))
                                       .value());
 
-
-
-
-
 exports.handler = (event, context, callback) => {
-    //console.log('Received event:', JSON.stringify(event, null, 2));
-
-    // Get the object from the event and show its content type
     const bucket = event.Records[0].s3.bucket.name;
     const key = decodeURIComponent(event.Records[0].s3.object.key.replace(/\+/g, ' '));
     const params = {
@@ -57,32 +51,38 @@ exports.handler = (event, context, callback) => {
             callback("Error getting object: " + params + ", with error: "+ err);
         } else {
           const surfData = JSON.parse(data.Body.toString('utf-8'));
-          const parsedData = dataConversionFun(surfData);
-          ejs.renderFile("index.ejs", {locations: parsedData,
-                                       today:  getDate(),
-                                       tomorrow: getDate(1),
-                                       afterTomorrow: getDate(2)
-                                      },
-                                      (err, indexHtml) => {
-                                          if(err) {
-                                            console.log("Errors during ejs parsing:", err);
-                                          } else {
-                                            const uploadParam = {
-                                              Bucket: "com.surfing.website",
-                                              Key: "index.html",
-                                              Body: indexHtml,
-                                              'Content-Type': 'text/html; charset=utf-8'
-                                            }
-                                            s3.upload(uploadParam, (err, data) => {
-                                              if (err){
-                                                  callback("Error putting object: " + params + ", with error: "+ err);
-                                              } else {
-                                                console.log("All good!!");           // successful response
-                                                callback(null, data);
-                                              }
-                                            })
-                                          }
-                                      });
+          const parsedSurfData = dataConversionFun(surfData);
+          const uploadParam = {
+            Bucket: "com.surfing.website",
+            Key: "surfData.json",
+            Body: JSON.stringify(parsedSurfData),
+            ContentType: 'application/json; charset=utf-8'
+          }
+          s3.upload(uploadParam, (err) => {
+            if (err){
+                callback("Error putting object: " + params + ", with error: "+ err);
+            } else {
+              console.log("All good!!");           // successful response
+              callback(null);
+            }
+          })
         }
     });
 };
+
+//Test:
+const p  = require("./index.js")
+const event = {
+  Records : [{
+    s3:{
+      bucket:{
+        name: "com.surfing"
+      },
+      object: {
+        key: "next/surf.json"
+      }
+    }
+  }]
+}
+
+p.handler(event, null, (err) => console.log(err))

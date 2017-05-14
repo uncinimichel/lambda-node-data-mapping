@@ -1,0 +1,2922 @@
+[
+	[{
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 8,
+		"unit": "m",
+		"date": "2017-05-09 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 6.9,
+		"unit": "m",
+		"date": "2017-05-09 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 6.6,
+		"unit": "m",
+		"date": "2017-05-09 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 9.6,
+		"unit": "m",
+		"date": "2017-05-09 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 10.6,
+		"unit": "m",
+		"date": "2017-05-09 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-09 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-09 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 10.5,
+		"unit": "m",
+		"date": "2017-05-09 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 8.5,
+		"unit": "m",
+		"date": "2017-05-10 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 7.5,
+		"unit": "m",
+		"date": "2017-05-10 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 8.2,
+		"unit": "m",
+		"date": "2017-05-10 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 10.9,
+		"unit": "m",
+		"date": "2017-05-10 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-10 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-10 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.5,
+		"unit": "m",
+		"date": "2017-05-10 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-10 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-11 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-11 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-11 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-11 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-11 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-11 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-11 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-11 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-12 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-12 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-12 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 12.5,
+		"unit": "m",
+		"date": "2017-05-12 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 13.1,
+		"unit": "m",
+		"date": "2017-05-12 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 14.2,
+		"unit": "m",
+		"date": "2017-05-12 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-12 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.2,
+		"unit": "m",
+		"date": "2017-05-12 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-13 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-13 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-13 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-13 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 14.1,
+		"unit": "m",
+		"date": "2017-05-13 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-13 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-13 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-13 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-14 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-14 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-14 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-14 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-14 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 14.5,
+		"unit": "m",
+		"date": "2017-05-14 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 13.8,
+		"unit": "m",
+		"date": "2017-05-14 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-14 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 10.7,
+		"unit": "m",
+		"date": "2017-05-15 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 10.4,
+		"unit": "m",
+		"date": "2017-05-15 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 11.4,
+		"unit": "m",
+		"date": "2017-05-15 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-15 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-15 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 14.1,
+		"unit": "m",
+		"date": "2017-05-15 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.7,
+		"unit": "m",
+		"date": "2017-05-15 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 12.5,
+		"unit": "m",
+		"date": "2017-05-15 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.8,
+		"unit": "m",
+		"date": "2017-05-16 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.5,
+		"unit": "m",
+		"date": "2017-05-16 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-16 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 13.8,
+		"unit": "m",
+		"date": "2017-05-16 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-16 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 15.1,
+		"unit": "m",
+		"date": "2017-05-16 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-16 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.9,
+		"unit": "m",
+		"date": "2017-05-16 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-17 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": null,
+		"unit": "m",
+		"date": "2017-05-17 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.8,
+		"unit": "m",
+		"date": "2017-05-17 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 15.3,
+		"unit": "m",
+		"date": "2017-05-17 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 15.9,
+		"unit": "m",
+		"date": "2017-05-17 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 15.9,
+		"unit": "m",
+		"date": "2017-05-17 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 14.9,
+		"unit": "m",
+		"date": "2017-05-17 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.5,
+		"unit": "m",
+		"date": "2017-05-17 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-18 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 10.3,
+		"unit": "m",
+		"date": "2017-05-18 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 10.4,
+		"unit": "m",
+		"date": "2017-05-18 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-18 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 14.2,
+		"unit": "m",
+		"date": "2017-05-18 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.7,
+		"unit": "m",
+		"date": "2017-05-18 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-18 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-18 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "west-wittering",
+		"source": "https:\/\/www.windguru.cz\/1825",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 10,
+		"unit": "m",
+		"date": "2017-05-19 01:00",
+		"rating": -1
+	}],
+	[{
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 8,
+		"unit": "m",
+		"date": "2017-05-09 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 6.9,
+		"unit": "m",
+		"date": "2017-05-09 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 6.6,
+		"unit": "m",
+		"date": "2017-05-09 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 9.6,
+		"unit": "m",
+		"date": "2017-05-09 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 10.6,
+		"unit": "m",
+		"date": "2017-05-09 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-09 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-09 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 10.5,
+		"unit": "m",
+		"date": "2017-05-09 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 8.5,
+		"unit": "m",
+		"date": "2017-05-10 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 7.5,
+		"unit": "m",
+		"date": "2017-05-10 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 8.2,
+		"unit": "m",
+		"date": "2017-05-10 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 10.9,
+		"unit": "m",
+		"date": "2017-05-10 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-10 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-10 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.5,
+		"unit": "m",
+		"date": "2017-05-10 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-10 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-11 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-11 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-11 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-11 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-11 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-11 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-11 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-11 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-12 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-12 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.2,
+		"unit": "m",
+		"date": "2017-05-12 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 12.4,
+		"unit": "m",
+		"date": "2017-05-12 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 13.1,
+		"unit": "m",
+		"date": "2017-05-12 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 14.2,
+		"unit": "m",
+		"date": "2017-05-12 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-12 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.2,
+		"unit": "m",
+		"date": "2017-05-12 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-13 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-13 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-13 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-13 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 14.1,
+		"unit": "m",
+		"date": "2017-05-13 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-13 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-13 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-13 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-14 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-14 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-14 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-14 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-14 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 14.5,
+		"unit": "m",
+		"date": "2017-05-14 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 13.8,
+		"unit": "m",
+		"date": "2017-05-14 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-14 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 10.7,
+		"unit": "m",
+		"date": "2017-05-15 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 10.4,
+		"unit": "m",
+		"date": "2017-05-15 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 11.4,
+		"unit": "m",
+		"date": "2017-05-15 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-15 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-15 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 14.1,
+		"unit": "m",
+		"date": "2017-05-15 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 13.7,
+		"unit": "m",
+		"date": "2017-05-15 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 12.5,
+		"unit": "m",
+		"date": "2017-05-15 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.8,
+		"unit": "m",
+		"date": "2017-05-16 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.5,
+		"unit": "m",
+		"date": "2017-05-16 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-16 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 13.8,
+		"unit": "m",
+		"date": "2017-05-16 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-16 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 15.1,
+		"unit": "m",
+		"date": "2017-05-16 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-16 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.9,
+		"unit": "m",
+		"date": "2017-05-16 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-17 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": null,
+		"unit": "m",
+		"date": "2017-05-17 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.8,
+		"unit": "m",
+		"date": "2017-05-17 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 15.3,
+		"unit": "m",
+		"date": "2017-05-17 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 15.9,
+		"unit": "m",
+		"date": "2017-05-17 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 15.9,
+		"unit": "m",
+		"date": "2017-05-17 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 14.9,
+		"unit": "m",
+		"date": "2017-05-17 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.5,
+		"unit": "m",
+		"date": "2017-05-17 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-18 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 10.3,
+		"unit": "m",
+		"date": "2017-05-18 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 10.4,
+		"unit": "m",
+		"date": "2017-05-18 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-18 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 14.2,
+		"unit": "m",
+		"date": "2017-05-18 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.7,
+		"unit": "m",
+		"date": "2017-05-18 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-18 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-18 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "east-wittering",
+		"source": "https:\/\/www.windguru.cz\/47908",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 10,
+		"unit": "m",
+		"date": "2017-05-19 01:00",
+		"rating": -1
+	}],
+	[{
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 9.8,
+		"unit": "m",
+		"date": "2017-05-09 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 9.5,
+		"unit": "m",
+		"date": "2017-05-09 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 9.6,
+		"unit": "m",
+		"date": "2017-05-09 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 10.7,
+		"unit": "m",
+		"date": "2017-05-09 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-09 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.2,
+		"wave-min": 1.2,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-09 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.1,
+		"wave-min": 1.1,
+		"tmpe": 11.4,
+		"unit": "m",
+		"date": "2017-05-09 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 9.9,
+		"unit": "m",
+		"date": "2017-05-09 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 9.7,
+		"unit": "m",
+		"date": "2017-05-10 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.1,
+		"wave-min": 1.1,
+		"tmpe": 9.5,
+		"unit": "m",
+		"date": "2017-05-10 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.1,
+		"wave-min": 1.1,
+		"tmpe": 9.6,
+		"unit": "m",
+		"date": "2017-05-10 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.2,
+		"wave-min": 1.2,
+		"tmpe": 10.8,
+		"unit": "m",
+		"date": "2017-05-10 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 12.4,
+		"unit": "m",
+		"date": "2017-05-10 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 13.2,
+		"unit": "m",
+		"date": "2017-05-10 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-10 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 11.5,
+		"unit": "m",
+		"date": "2017-05-10 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.3,
+		"wave-min": 1.3,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-11 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.2,
+		"wave-min": 1.2,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-11 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.2,
+		"wave-min": 1.2,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-11 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.1,
+		"wave-min": 1.1,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-11 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 12.8,
+		"unit": "m",
+		"date": "2017-05-11 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 12.4,
+		"unit": "m",
+		"date": "2017-05-11 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.4,
+		"unit": "m",
+		"date": "2017-05-11 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-11 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-12 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-12 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 12.2,
+		"unit": "m",
+		"date": "2017-05-12 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-12 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 13.6,
+		"unit": "m",
+		"date": "2017-05-12 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 14.3,
+		"unit": "m",
+		"date": "2017-05-12 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 13.6,
+		"unit": "m",
+		"date": "2017-05-12 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 12.1,
+		"unit": "m",
+		"date": "2017-05-12 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 11.2,
+		"unit": "m",
+		"date": "2017-05-13 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-13 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.2,
+		"wave-min": 1.2,
+		"tmpe": 11.8,
+		"unit": "m",
+		"date": "2017-05-13 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.4,
+		"wave-min": 1.4,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-13 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.7,
+		"wave-min": 1.7,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-13 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2,
+		"wave-min": 2,
+		"tmpe": 14,
+		"unit": "m",
+		"date": "2017-05-13 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.3,
+		"wave-min": 2.3,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-13 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.2,
+		"wave-min": 2.2,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-13 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.1,
+		"wave-min": 2.1,
+		"tmpe": 11.3,
+		"unit": "m",
+		"date": "2017-05-14 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.9,
+		"wave-min": 1.9,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-14 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.8,
+		"wave-min": 1.8,
+		"tmpe": 11.5,
+		"unit": "m",
+		"date": "2017-05-14 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.8,
+		"wave-min": 1.8,
+		"tmpe": 12.6,
+		"unit": "m",
+		"date": "2017-05-14 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.7,
+		"wave-min": 1.7,
+		"tmpe": 13.3,
+		"unit": "m",
+		"date": "2017-05-14 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.7,
+		"wave-min": 1.7,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-14 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.6,
+		"wave-min": 1.6,
+		"tmpe": 12.9,
+		"unit": "m",
+		"date": "2017-05-14 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.6,
+		"wave-min": 1.6,
+		"tmpe": 11.4,
+		"unit": "m",
+		"date": "2017-05-14 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.6,
+		"wave-min": 1.6,
+		"tmpe": 11.5,
+		"unit": "m",
+		"date": "2017-05-15 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.6,
+		"wave-min": 1.6,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-15 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 1.8,
+		"wave-min": 1.8,
+		"tmpe": 12,
+		"unit": "m",
+		"date": "2017-05-15 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.3,
+		"wave-min": 2.3,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-15 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.7,
+		"wave-min": 2.7,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-15 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.8,
+		"wave-min": 2.8,
+		"tmpe": 14.6,
+		"unit": "m",
+		"date": "2017-05-15 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.7,
+		"wave-min": 2.7,
+		"tmpe": 14.2,
+		"unit": "m",
+		"date": "2017-05-15 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.6,
+		"wave-min": 2.6,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-15 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.5,
+		"wave-min": 2.5,
+		"tmpe": 13.5,
+		"unit": "m",
+		"date": "2017-05-16 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.3,
+		"wave-min": 2.3,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-16 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.2,
+		"wave-min": 2.2,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-16 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.2,
+		"wave-min": 2.2,
+		"tmpe": 14.2,
+		"unit": "m",
+		"date": "2017-05-16 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2.1,
+		"wave-min": 2.1,
+		"tmpe": 14.9,
+		"unit": "m",
+		"date": "2017-05-16 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2,
+		"wave-min": 2,
+		"tmpe": 15,
+		"unit": "m",
+		"date": "2017-05-16 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 2,
+		"wave-min": 2,
+		"tmpe": 14.4,
+		"unit": "m",
+		"date": "2017-05-16 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13,
+		"unit": "m",
+		"date": "2017-05-16 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.2,
+		"unit": "m",
+		"date": "2017-05-17 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": null,
+		"unit": "m",
+		"date": "2017-05-17 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-17 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 14.3,
+		"unit": "m",
+		"date": "2017-05-17 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-17 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.9,
+		"unit": "m",
+		"date": "2017-05-17 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.7,
+		"unit": "m",
+		"date": "2017-05-17 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-17 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.6,
+		"unit": "m",
+		"date": "2017-05-18 01:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.4,
+		"unit": "m",
+		"date": "2017-05-18 04:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.1,
+		"unit": "m",
+		"date": "2017-05-18 07:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.9,
+		"unit": "m",
+		"date": "2017-05-18 10:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.3,
+		"unit": "m",
+		"date": "2017-05-18 13:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.4,
+		"unit": "m",
+		"date": "2017-05-18 16:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.2,
+		"unit": "m",
+		"date": "2017-05-18 19:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-18 22:00",
+		"rating": -1
+	}, {
+		"surf-location": "cornwall-st-ives",
+		"source": "https:\/\/www.windguru.cz\/47874",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.4,
+		"unit": "m",
+		"date": "2017-05-19 01:00",
+		"rating": -1
+	}],
+	[{
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 7.8,
+		"unit": "m",
+		"date": "2017-05-09 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 7.5,
+		"unit": "m",
+		"date": "2017-05-09 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 11.2,
+		"unit": "m",
+		"date": "2017-05-09 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 16.1,
+		"unit": "m",
+		"date": "2017-05-09 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 18.1,
+		"unit": "m",
+		"date": "2017-05-09 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 18.6,
+		"unit": "m",
+		"date": "2017-05-09 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 17.1,
+		"unit": "m",
+		"date": "2017-05-09 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 13.2,
+		"unit": "m",
+		"date": "2017-05-09 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 14.4,
+		"unit": "m",
+		"date": "2017-05-10 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-10 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 15.1,
+		"unit": "m",
+		"date": "2017-05-10 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 19.8,
+		"unit": "m",
+		"date": "2017-05-10 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 23.3,
+		"unit": "m",
+		"date": "2017-05-10 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 23.5,
+		"unit": "m",
+		"date": "2017-05-10 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 21.1,
+		"unit": "m",
+		"date": "2017-05-10 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 16.9,
+		"unit": "m",
+		"date": "2017-05-10 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 16.5,
+		"unit": "m",
+		"date": "2017-05-11 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 15.5,
+		"unit": "m",
+		"date": "2017-05-11 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 14.9,
+		"unit": "m",
+		"date": "2017-05-11 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 18.3,
+		"unit": "m",
+		"date": "2017-05-11 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 21.6,
+		"unit": "m",
+		"date": "2017-05-11 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.3,
+		"wave-min": 0.3,
+		"tmpe": 22.1,
+		"unit": "m",
+		"date": "2017-05-11 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.2,
+		"wave-min": 0.2,
+		"tmpe": 19.9,
+		"unit": "m",
+		"date": "2017-05-11 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 17.7,
+		"unit": "m",
+		"date": "2017-05-11 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 15.6,
+		"unit": "m",
+		"date": "2017-05-12 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.4,
+		"wave-min": 0.4,
+		"tmpe": 14,
+		"unit": "m",
+		"date": "2017-05-12 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 14.4,
+		"unit": "m",
+		"date": "2017-05-12 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 16.8,
+		"unit": "m",
+		"date": "2017-05-12 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 18.6,
+		"unit": "m",
+		"date": "2017-05-12 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 21.8,
+		"unit": "m",
+		"date": "2017-05-12 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 15.8,
+		"unit": "m",
+		"date": "2017-05-12 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 10.1,
+		"unit": "m",
+		"date": "2017-05-12 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 9.5,
+		"unit": "m",
+		"date": "2017-05-13 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.5,
+		"wave-min": 0.5,
+		"tmpe": 9.1,
+		"unit": "m",
+		"date": "2017-05-13 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.6,
+		"wave-min": 0.6,
+		"tmpe": 11,
+		"unit": "m",
+		"date": "2017-05-13 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 18,
+		"unit": "m",
+		"date": "2017-05-13 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 20.8,
+		"unit": "m",
+		"date": "2017-05-13 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 20.1,
+		"unit": "m",
+		"date": "2017-05-13 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 17,
+		"unit": "m",
+		"date": "2017-05-13 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 11.2,
+		"unit": "m",
+		"date": "2017-05-13 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 10.3,
+		"unit": "m",
+		"date": "2017-05-14 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 10.2,
+		"unit": "m",
+		"date": "2017-05-14 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-14 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.7,
+		"wave-min": 0.7,
+		"tmpe": 16.6,
+		"unit": "m",
+		"date": "2017-05-14 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 17,
+		"unit": "m",
+		"date": "2017-05-14 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 16.2,
+		"unit": "m",
+		"date": "2017-05-14 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 15.1,
+		"unit": "m",
+		"date": "2017-05-14 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.8,
+		"wave-min": 0.8,
+		"tmpe": 9,
+		"unit": "m",
+		"date": "2017-05-14 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 8.5,
+		"unit": "m",
+		"date": "2017-05-15 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 9,
+		"unit": "m",
+		"date": "2017-05-15 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 13.4,
+		"unit": "m",
+		"date": "2017-05-15 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 18.5,
+		"unit": "m",
+		"date": "2017-05-15 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 20.3,
+		"unit": "m",
+		"date": "2017-05-15 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 19.9,
+		"unit": "m",
+		"date": "2017-05-15 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 17.4,
+		"unit": "m",
+		"date": "2017-05-15 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 10.2,
+		"unit": "m",
+		"date": "2017-05-15 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 9.5,
+		"unit": "m",
+		"date": "2017-05-16 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 1,
+		"wave-min": 1,
+		"tmpe": 9.5,
+		"unit": "m",
+		"date": "2017-05-16 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 14.5,
+		"unit": "m",
+		"date": "2017-05-16 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 18.9,
+		"unit": "m",
+		"date": "2017-05-16 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 21.1,
+		"unit": "m",
+		"date": "2017-05-16 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 20.9,
+		"unit": "m",
+		"date": "2017-05-16 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0.9,
+		"wave-min": 0.9,
+		"tmpe": 18.4,
+		"unit": "m",
+		"date": "2017-05-16 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.2,
+		"unit": "m",
+		"date": "2017-05-16 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.5,
+		"unit": "m",
+		"date": "2017-05-17 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": null,
+		"unit": "m",
+		"date": "2017-05-17 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 16.6,
+		"unit": "m",
+		"date": "2017-05-17 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 23.9,
+		"unit": "m",
+		"date": "2017-05-17 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 26.8,
+		"unit": "m",
+		"date": "2017-05-17 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 24.8,
+		"unit": "m",
+		"date": "2017-05-17 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 20.4,
+		"unit": "m",
+		"date": "2017-05-17 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.5,
+		"unit": "m",
+		"date": "2017-05-17 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.5,
+		"unit": "m",
+		"date": "2017-05-18 02:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-18 05:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-18 08:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-18 11:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.9,
+		"unit": "m",
+		"date": "2017-05-18 14:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 13.9,
+		"unit": "m",
+		"date": "2017-05-18 17:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 12.9,
+		"unit": "m",
+		"date": "2017-05-18 20:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 11.7,
+		"unit": "m",
+		"date": "2017-05-18 23:00",
+		"rating": -1
+	}, {
+		"surf-location": "bilbao",
+		"source": "https:\/\/www.windguru.cz\/47481",
+		"wave-max": 0,
+		"wave-min": 0,
+		"tmpe": 9.7,
+		"unit": "m",
+		"date": "2017-05-19 02:00",
+		"rating": -1
+	}]
+]
